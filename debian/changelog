@@ -1,0 +1,13 @@
+golang-jsouthworth-dyn (1.0-1) unstable; urgency=medium
+
+  * [6ebfb4d] Initial commit
+  * [9df5335] Add README, travis-ci integration, and force the
+	      correct import path
+  * [ed3e1cb] remove coveralls integration, not sure why it isn't working
+  * [658abc2] apply: allow using maps,slices, and structs as arguments
+  * [9b0c974] dyn: add Equality and Comparison helpers
+  * [f969270] dyn: add function composition
+  * [7a70974] dyn: add PrependArg helper
+  * [88f622a] dyn: Rework multiple function returns to be a tuple type
+
+ -- John Southworth <jx756k@att.com>  Fri, 22 Mar 2019 13:58:38 -0700

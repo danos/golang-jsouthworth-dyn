@@ -1,0 +1,17 @@
+Source: golang-jsouthworth-dyn
+Section: devel
+Priority: extra
+Maintainer: John Southworth <jx756k@att.com>
+Build-Depends: debhelper (>= 9), dh-golang, golang-go
+Standards-Version: 3.9.8
+Homepage: https://jsouthworth.net/go/dyn
+
+Package: golang-jsouthworth-dyn-dev
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Built-Using: ${misc:Built-Using}
+Description: Dynamic binding helpers for go
+ Dyn allows for calling functions dynamically by wrapping reflection
+ in a more friendly API
+ .
+ This package contains the source.
