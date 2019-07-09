@@ -2,7 +2,7 @@ golang-jsouthworth-dyn (1.0-2) unstable; urgency=medium
 
   * dyn: add non-comparable safe version of equal
 
- -- John Southworth <jx756k@att.com>  Wed, 10 Apr 2019 12:24:58 -0700
+ -- John Southworth <jx756k@att.com>  Tue, 09 Jul 2019 09:23:44 -0700
 
 golang-jsouthworth-dyn (1.0-1) unstable; urgency=medium
 
