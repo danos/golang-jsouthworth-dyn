@@ -1,3 +1,9 @@
+golang-jsouthworth-dyn (1.0.1-1) unstable; urgency=medium
+
+  * dyn: allow a generic variadic function to skip reflection
+
+ -- John Southworth <jx756k@att.com>  Thu, 12 Dec 2019 12:42:57 -0800
+
 golang-jsouthworth-dyn (1.0-2) unstable; urgency=medium
 
   * dyn: add non-comparable safe version of equal
